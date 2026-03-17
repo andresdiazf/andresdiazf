@@ -57,7 +57,9 @@ Me apasiona:
 ---
 
 ## 🛠️ Tecnologías e intereses
-
+Python - JAVA
+AWS-GCP-AZURE
+Docker 
 ```txt
-Innovación | Transformación Digital | IA | Desarrollo Web
-Cloud | Data | Product Thinking | UX | Agile
+Innovación | Transformación Digital | IA | Desarrollo Software |
+Cloud Computing | Product Thinking | UX | Agile
