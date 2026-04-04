@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un profesional con más de 10 años de experiencia liderando iniciativas de innovación, desarrollo digital y creación de nuevos modelos de negocio.  
+Soy un profesional con más de 5 años de experiencia liderando iniciativas de innovación, desarrollo digital y creación de nuevos modelos de negocio.  
 
 Actualmente estoy enfocado en fortalecer mis habilidades en desarrollo de software, inteligencia artificial y arquitectura tecnológica para aportar en proyectos de transformación digital con impacto real.
 
